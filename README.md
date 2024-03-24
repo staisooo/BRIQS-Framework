@@ -1,2 +1,2 @@
-# Radar_Based_Imaging_For_Breast_Cancer_Detection
-Repository for MAI (5th) Year Project at Trinity College Dublin.
+# Breast Radar-based Image Quality Analysis (BRIQS) Framework
+Repository for MAI (5th) Year Biomedical Engineering Project at Trinity College Dublin.
