@@ -4,6 +4,9 @@ BRIQS provides an open-source reconstruction software through MERIT (https://git
 # Using BRIQS 
 An example of using BRIQS to image a phantom in 3D and obtain metric scores is available in getting_started.m
 
+https://github.com/staisooo/BRIQS-Framework/assets/55760733/c702e834-9a03-4963-b284-caa887b8db2c
+
+
 # Publications
 Please refer to the following publications for the full work on BRIGID and MERIT:
 
